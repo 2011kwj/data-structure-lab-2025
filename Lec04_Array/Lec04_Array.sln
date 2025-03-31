@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lec04_Array", "Lec04_Array\Lec04_Array.vcxproj", "{B6E238AD-3DA5-4E28-8915-24A1FAA214A2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lec04_class", "Lec04_class\Lec04_class.vcxproj", "{E768C751-245B-4A17-B8C5-8F3FD95659B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{B6E238AD-3DA5-4E28-8915-24A1FAA214A2}.Release|x64.Build.0 = Release|x64
 		{B6E238AD-3DA5-4E28-8915-24A1FAA214A2}.Release|x86.ActiveCfg = Release|Win32
 		{B6E238AD-3DA5-4E28-8915-24A1FAA214A2}.Release|x86.Build.0 = Release|Win32
+		{E768C751-245B-4A17-B8C5-8F3FD95659B8}.Debug|x64.ActiveCfg = Debug|x64
+		{E768C751-245B-4A17-B8C5-8F3FD95659B8}.Debug|x64.Build.0 = Debug|x64
+		{E768C751-245B-4A17-B8C5-8F3FD95659B8}.Debug|x86.ActiveCfg = Debug|Win32
+		{E768C751-245B-4A17-B8C5-8F3FD95659B8}.Debug|x86.Build.0 = Debug|Win32
+		{E768C751-245B-4A17-B8C5-8F3FD95659B8}.Release|x64.ActiveCfg = Release|x64
+		{E768C751-245B-4A17-B8C5-8F3FD95659B8}.Release|x64.Build.0 = Release|x64
+		{E768C751-245B-4A17-B8C5-8F3FD95659B8}.Release|x86.ActiveCfg = Release|Win32
+		{E768C751-245B-4A17-B8C5-8F3FD95659B8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
