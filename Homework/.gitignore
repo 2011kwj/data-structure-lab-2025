@@ -1,0 +1,14 @@
+.vs/
+*.ipch
+*.sdf
+*.opensdf
+*.obj
+*.exe
+*.log
+*.pch
+*.user
+*.tlog
+*.pdb
+*.ilk
+Debug/
+Release/
