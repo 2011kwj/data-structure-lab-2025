@@ -8,4 +8,4 @@ C:\opencv\build\include\opencv2\core.hpp(1,1): warning C4819: 현재 코드 페�
 C:\opencv\build\include\opencv2\core.hpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
   (소스 파일 'find_max_pixel.cpp'을(를) 컴파일하는 중)
   
-  Project2.vcxproj -> C:\Users\김왕진\source\repos\Project1\x64\Debug\SecondHomework.exe
+  Project2.vcxproj -> C:\Users\김왕진\Desktop\data-structure-lab-2025\data-structure-lab-2025\Homework\Project1\x64\Debug\SecondHomework.exe
